@@ -21,4 +21,16 @@ When this is done you have to start the miner this can be done with the followin
  To quit the screen you have to do ( CTRL + a + d )
  If you want to attach again to the screen use ( screen -x x16 )
  
+ --------------------------------------------------------------------------------------------------------------
+ 
+If you restart the rig please use the following commands:
+ - ( sudo sh x16rv2start.sh )
+
+When this is done you have to start the miner this can be done with the following commands:
+ - ( screen -S x16 )
+ - ( sudo ./as_miner -o stratum+tcp://multi.extremehash.io:3637 -u (RVN address) -p d=128 -k (key) )
+ 
+ To quit the screen you have to do ( CTRL + a + d )
+ If you want to attach again to the screen use ( screen -x x16 )
+ 
 If you got any issue or any question please contact me on discord ( Eric ExtremeHash.io#5751 )
