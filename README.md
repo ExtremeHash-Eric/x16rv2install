@@ -14,7 +14,7 @@ If you want to use this script do the following command:
  
 When this is done you have to start the miner this can be done with the following commands:
  - ( screen -S x16 )
- - ( sudo ./as_miner -o stratum+tcp://multi.extremehash.io:3637 -u (RVN address) -p x -k (key) )
+ - ( sudo ./as_miner -o stratum+tcp://multi.extremehash.io:3637 -u (RVN address) -p d=128 -k (key) )
 
    (Your key can be found at http://web.altered-silicon.net )
 
