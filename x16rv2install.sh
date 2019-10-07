@@ -22,6 +22,11 @@ tar -xf as_miner_x16rv2_3.1.2.tar.gz
 tar -xf as_x16rv2_bitstreams_3.1.tar.gz
 tar -xf as_xdma_driver_1.0.tar.gz
 
+rm NextJtag-2.4.0-Linux-x86_64.tar.gz
+rm as_miner_x16rv2_3.1.2.tar.gz
+rm as_x16rv2_bitstreams_3.1.tar.gz
+rm as_xdma_driver_1.0.tar.gz
+
 whiptail --title "Example Dialog" --msgbox "Now you have to paste the NextjTag_License file press enter to open the file after you pasted it do CTRL + x then press y and press enter to save" 8 78
 nano ~/x16/NextJtag-2.4.0-Linux-x86_64/bin/nextjtag_license.txt
 
