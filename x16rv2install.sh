@@ -9,6 +9,10 @@
 ################################################################################
 
 cd
+
+sudo systemctl stop minerator
+sudo systemctl disable minerator
+
 mkdir x16
 cd x16
 
