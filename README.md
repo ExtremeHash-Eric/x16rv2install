@@ -22,7 +22,8 @@ When this is done you have to start the miner this can be done with the followin
  If you want to attach again to the screen use ( screen -x x16 )
  
  --------------------------------------------------------------------------------------------------------------
- 
+# x16rv2start
+
 If you restart the rig please use the following commands:
  - ( sudo sh x16rv2start.sh )
 
