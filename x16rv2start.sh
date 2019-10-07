@@ -9,6 +9,10 @@
 ################################################################################
 
 cd
+
+sudo systemctl stop minerator
+sudo systemctl disable minerator
+
 cd x16
 
 sudo ~/x16/NextJtag-2.4.0-Linux-x86_64/bin/nextjtag -a -c
