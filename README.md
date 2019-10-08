@@ -8,6 +8,12 @@ The script will do the following:
  - Unzip all files and put them in the right place
  - Program the cards
  
+Please install the following this manual:
+ - ( sudo apt install make )
+ - ( sudo apt install screen )
+ - ( sudo apt install gcc )
+ - ( sudo apt-get install libcurl4-openssl-dev )
+ 
 If you want to use this script do the following command:
  - ( wget https://github.com/ExtremeHash-Eric/x16rv2install/blob/master/x16rv2install.sh )
  - Next you will have to run the script ( sudo sh x16rv2install.sh )
