@@ -9,8 +9,8 @@ The script will do the following:
  - Program the cards
  
 Please install the following things manual before starting:
- - ( apt update )
- - ( apt install git )
+ - ( sudo apt update )
+ - ( sudo apt install git )
  - ( sudo apt install make )
  - ( sudo apt install screen )
  - ( sudo apt install gcc )
