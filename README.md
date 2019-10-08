@@ -8,7 +8,7 @@ The script will do the following:
  - Unzip all files and put them in the right place
  - Program the cards
  
-Please install the following this manual:
+Please install the following things manual before starting:
  - ( apt update )
  - ( sudo apt install make )
  - ( sudo apt install screen )
