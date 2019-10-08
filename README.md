@@ -9,6 +9,7 @@ The script will do the following:
  - Program the cards
  
 Please install the following this manual:
+ - ( apt update )
  - ( sudo apt install make )
  - ( sudo apt install screen )
  - ( sudo apt install gcc )
