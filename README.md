@@ -10,13 +10,15 @@ The script will do the following:
  
 Please install the following things manual before starting:
  - ( apt update )
+ - ( apt install git )
  - ( sudo apt install make )
  - ( sudo apt install screen )
  - ( sudo apt install gcc )
  - ( sudo apt-get install libcurl4-openssl-dev )
  
 If you want to use this script do the following command:
- - ( wget https://github.com/ExtremeHash-Eric/x16rv2install/blob/master/x16rv2install.sh )
+ - ( git clone https://github.com/ExtremeHash-Eric/x16rv2install.git )
+ - ( cd x16rv2install )
  - Next you will have to run the script ( sudo sh x16rv2install.sh )
  
 When this is done you have to start the miner this can be done with the following commands:
@@ -32,7 +34,8 @@ When this is done you have to start the miner this can be done with the followin
 # x16rv2start
 
 If you restart the rig please use the following commands:
- - ( wget https://github.com/ExtremeHash-Eric/x16rv2install/blob/master/x16rv2start.sh )
+ - ( git clone https://github.com/ExtremeHash-Eric/x16rv2install.git )
+ - ( cd x16rv2install )
  - ( sudo sh x16rv2start.sh )
 
 When this is done you have to start the miner this can be done with the following commands:
