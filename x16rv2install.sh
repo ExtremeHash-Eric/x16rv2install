@@ -10,6 +10,11 @@
 
 cd
 
+sudo apt install make
+sudo apt install screen
+sudo apt install gcc
+sudo apt-get install libcurl4-openssl-dev
+
 sudo systemctl stop minerator
 sudo systemctl disable minerator
 
