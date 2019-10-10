@@ -15,6 +15,7 @@ Please install the following things manual before starting:
  - ( sudo apt install screen )
  - ( sudo apt install gcc )
  - ( sudo apt-get install libcurl4-openssl-dev )
+ - ( sudo apt install build-essential )
  
 If you want to use this script do the following command:
  - ( git clone https://github.com/ExtremeHash-Eric/x16rv2install.git )
