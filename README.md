@@ -47,6 +47,16 @@ When this is done you have to start the miner this can be done with the followin
  If you want to attach again to the screen use ( screen -x x16 )
  
  --------------------------------------------------------------------------------------------------------------
+# x16rv2update
+
+To install the updated you ahve to do the following:
+ - ( Stop the miner )
+ - ( Go to the main folder with the command 'cd ~/x16rv2install' )
+ - ( Pull the update from github with the command 'git pull' (only to update the files if you used the script before)
+ - ( Run ' sudo sh x16rv2update.sh ' )
+ - ( Go back to your screen and start the miner back up )
+ 
+ --------------------------------------------------------------------------------------------------------------
 If you want to have both scripts please use the following commands:
  - ( apt install git )
  - ( git clone https://github.com/ExtremeHash-Eric/x16rv2install.git )
