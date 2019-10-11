@@ -3,7 +3,7 @@
 # Original Author:   Eric ExtremeHash.io
 #
 # Program:
-#   Update the x16 bitstream
+#   Update the x16 bitstream (new)
 #
 #
 ################################################################################
