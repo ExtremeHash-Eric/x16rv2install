@@ -24,8 +24,8 @@ wget https://www.dropbox.com/s/7rsnn1omqj9zeo3/as_x16rv2_bitstreams_3.2.tar.gz
 tar -xf as_miner_x16rv2_3.2.0.tar.gz
 tar -xf as_x16rv2_bitstreams_3.2.tar.gz
 
-sudo ~/x16/NextJtag-2.4.0-Linux-x86_64/bin/nextjtag -a -c
-sudo ~/x16/NextJtag-2.4.0-Linux-x86_64/bin/nextjtag -m -a --set-jtag-freq 30000000 -b ~/x16/bitstreams/top.bit
+sudo ~/x16/NextJtag-2.5.0-Linux-x86_64/bin/nextjtag -a -c
+sudo ~/x16/NextJtag-2.5.0-Linux-x86_64/bin/nextjtag -m -a --set-jtag-freq 30000000 -b ~/x16/bitstreams/top.bit
 
 cd ~/x16/as_xdma_driver/driver
 sudo make clean
